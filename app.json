@@ -1,0 +1,30 @@
+
+{
+  "id": "32f7ee9b-e324-4f72-8378-d7da0e691d63",
+  "name": "bc2021",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  
+  "contextSensitiveHelpUrl": "https://bc2021.com/help/",
+  "showMyCode": true,
+  "target": "Cloud",
+  "runtime": "6.0"
+}
+
