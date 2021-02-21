@@ -27,7 +27,7 @@ codeunit 50111 "DHLP Integeration"
     begin
         JsonObject.Add('Username', '08007639FONTINI');
         JsonObject.Add('Password', '3be966b7-98ef-4269-a511-c69eaff01589');
-        //JsonArray.Add(JsonObject);
+        //JsonArray.Add(JsonObject);ed
         JsonObject.WriteTo(RequestJSON);
         Message(RequestJSON);
         RequestUrl := 'https://external.dhl.es/cimapi/api/v1/customer/authenticate';
